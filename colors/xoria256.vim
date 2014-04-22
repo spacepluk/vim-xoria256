@@ -11,7 +11,7 @@ endif
 set t_Co=256
 let g:colors_name = "xoria256"
 
-hi IncSearch guifg=#1c1c1c guibg=#ffdfaf guisp=#ffdfaf gui=NONE ctermfg=234 ctermbg=223 cterm=NONE
+hi IncSearch guifg=#080808 guibg=#ffff5f guisp=#ffff5f gui=NONE ctermfg=232 ctermbg=227 cterm=NONE
 hi WildMenu guifg=#d0d0d0 guibg=#dfdf00 guisp=#dfdf00 gui=bold ctermfg=252 ctermbg=184 cterm=bold
 hi SignColumn guifg=#a8a8a8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi SpecialComment guifg=#df8787 guibg=NONE guisp=NONE gui=bold ctermfg=174 ctermbg=NONE cterm=bold
@@ -42,7 +42,7 @@ hi Normal guifg=#d0d0d0 guibg=#1c1c1c guisp=#1c1c1c gui=NONE ctermfg=252 ctermbg
 hi Label guifg=#afafdf guibg=NONE guisp=NONE gui=bold ctermfg=146 ctermbg=NONE cterm=bold
 "hi CTagsImport -- no settings --
 hi PMenuSel guifg=#000000 guibg=#767676 guisp=#767676 gui=NONE ctermfg=NONE ctermbg=243 cterm=NONE
-hi Search guifg=#1c1c1c guibg=#afdf5f guisp=#afdf5f gui=NONE ctermfg=234 ctermbg=149 cterm=NONE
+hi Search guifg=#ffff5f guibg=#080808 guisp=#080808 gui=bold ctermfg=227 ctermbg=232 cterm=bold
 "hi CTagsGlobalVariable -- no settings --
 hi Delimiter guifg=#df8787 guibg=NONE guisp=NONE gui=bold ctermfg=174 ctermbg=NONE cterm=bold
 hi Statement guifg=#5fafd7 guibg=NONE guisp=NONE gui=bold ctermfg=74 ctermbg=NONE cterm=bold
