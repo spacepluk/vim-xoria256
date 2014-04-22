@@ -89,7 +89,7 @@ hi PMenuThumb guifg=NONE guibg=#d0d0d0 guisp=#d0d0d0 gui=NONE ctermfg=NONE cterm
 hi MatchParen guifg=#dfdfdf guibg=#5f87df guisp=#5f87df gui=bold ctermfg=254 ctermbg=68 cterm=bold
 "hi LocalVariable -- no settings --
 hi Repeat guifg=#afafdf guibg=NONE guisp=NONE gui=bold ctermfg=146 ctermbg=NONE cterm=bold
-"hi SpellBad -- no settings --
+hi SpellBad guifg=#ffffff guibg=#800000 guisp=#800000 gui=NONE ctermfg=15 ctermbg=3 cterm=NONE
 "hi CTagsClass -- no settings --
 hi Directory guifg=#00afff guibg=#1c1c1c guisp=#1c1c1c gui=NONE ctermfg=39 ctermbg=234 cterm=NONE
 hi Structure guifg=#afafdf guibg=NONE guisp=NONE gui=bold ctermfg=146 ctermbg=NONE cterm=bold
