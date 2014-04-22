@@ -84,7 +84,7 @@ hi SpecialKey guifg=#5fdf5f guibg=NONE guisp=NONE gui=NONE ctermfg=77 ctermbg=NO
 hi Constant guifg=#ff875f guibg=#1c1c1c guisp=#1c1c1c gui=NONE ctermfg=209 ctermbg=234 cterm=NONE
 "hi DefinedName -- no settings --
 hi Tag guifg=#df8787 guibg=NONE guisp=NONE gui=bold ctermfg=174 ctermbg=NONE cterm=bold
-hi String guifg=#ffffaf guibg=#1c1c1c guisp=#1c1c1c gui=NONE ctermfg=229 ctermbg=234 cterm=NONE
+hi String guifg=#ffff5f guibg=#1c1c1c guisp=#1c1c1c gui=NONE ctermfg=227 ctermbg=234 cterm=NONE
 hi PMenuThumb guifg=NONE guibg=#d0d0d0 guisp=#d0d0d0 gui=NONE ctermfg=NONE ctermbg=252 cterm=NONE
 hi MatchParen guifg=#dfdfdf guibg=#5f87df guisp=#5f87df gui=bold ctermfg=254 ctermbg=68 cterm=bold
 "hi LocalVariable -- no settings --
