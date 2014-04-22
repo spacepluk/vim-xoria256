@@ -95,7 +95,7 @@ hi Directory guifg=#00afff guibg=#1c1c1c guisp=#1c1c1c gui=NONE ctermfg=39 cterm
 hi Structure guifg=#afafdf guibg=NONE guisp=NONE gui=bold ctermfg=146 ctermbg=NONE cterm=bold
 hi Macro guifg=#afdf87 guibg=NONE guisp=NONE gui=NONE ctermfg=150 ctermbg=NONE cterm=NONE
 hi Underlined guifg=#00afff guibg=NONE guisp=NONE gui=underline ctermfg=39 ctermbg=NONE cterm=underline
-hi DiffAdd guifg=#1c1c1c guibg=#00d700 guisp=#00d700 gui=NONE ctermfg=234 ctermbg=40 cterm=NONE
+hi DiffAdd guifg=#1c1c1c guibg=#00af00 guisp=#00af00 gui=NONE ctermfg=234 ctermbg=34 cterm=NONE
 hi TabLine guifg=#d0d0d0 guibg=#666666 guisp=#666666 gui=underline ctermfg=252 ctermbg=241 cterm=underline
 hi diffadded guifg=#afdf87 guibg=NONE guisp=NONE gui=NONE ctermfg=150 ctermbg=NONE cterm=NONE
 hi taglistcomment guifg=#000000 guibg=#008700 guisp=#008700 gui=NONE ctermfg=NONE ctermbg=28 cterm=NONE
