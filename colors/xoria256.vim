@@ -29,7 +29,7 @@ hi DiffText guifg=#e4e4e4 guibg=#ff6060 guisp=#ff6060 gui=NONE ctermfg=254 cterm
 hi ErrorMsg guifg=#ffffff guibg=#df0000 guisp=#df0000 gui=bold ctermfg=15 ctermbg=160 cterm=bold
 hi Ignore guifg=#444444 guibg=#1c1c1c guisp=#1c1c1c gui=bold ctermfg=238 ctermbg=234 cterm=bold
 hi Debug guifg=#df8787 guibg=NONE guisp=NONE gui=bold ctermfg=174 ctermbg=NONE cterm=bold
-hi PMenuSbar guifg=NONE guibg=#767676 guisp=#767676 gui=NONE ctermfg=NONE ctermbg=243 cterm=NONE
+hi PMenuSbar guifg=#1c1c1c guibg=#6c6c6c guisp=#6c6c6c gui=NONE ctermfg=234 ctermbg=242 cterm=NONE
 hi Identifier guifg=#d787d7 guibg=NONE guisp=NONE gui=NONE ctermfg=176 ctermbg=NONE cterm=NONE
 hi SpecialChar guifg=#df8787 guibg=NONE guisp=NONE gui=bold ctermfg=174 ctermbg=NONE cterm=bold
 hi Conditional guifg=#afafdf guibg=NONE guisp=NONE gui=bold ctermfg=146 ctermbg=NONE cterm=bold
