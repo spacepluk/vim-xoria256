@@ -17,7 +17,7 @@ hi SignColumn guifg=#a8a8a8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=N
 hi SpecialComment guifg=#df8787 guibg=NONE guisp=NONE gui=bold ctermfg=174 ctermbg=NONE cterm=bold
 hi Typedef guifg=#afafdf guibg=NONE guisp=NONE gui=bold ctermfg=146 ctermbg=NONE cterm=bold
 hi Title guifg=#87d75f guibg=NONE guisp=NONE gui=bold ctermfg=113 ctermbg=NONE cterm=bold
-hi Folded guifg=#eeeeee guibg=#5f5f87 guisp=#5f5f87 gui=NONE ctermfg=255 ctermbg=60 cterm=NONE
+hi Folded guifg=#3a3a3a guibg=#121212 guisp=#121212 gui=NONE ctermfg=237 ctermbg=233 cterm=NONE
 hi PreCondit guifg=#afdf87 guibg=NONE guisp=NONE gui=NONE ctermfg=150 ctermbg=NONE cterm=NONE
 hi Include guifg=#afdf87 guibg=NONE guisp=NONE gui=NONE ctermfg=150 ctermbg=NONE cterm=NONE
 hi Float guifg=#dfaf87 guibg=NONE guisp=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
