@@ -23,7 +23,7 @@ hi Include guifg=#afdf87 guibg=NONE guisp=NONE gui=NONE ctermfg=150 ctermbg=NONE
 hi Float guifg=#dfaf87 guibg=NONE guisp=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 hi StatusLineNC guifg=NONE guibg=#3a3a3a guisp=#3a3a3a gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
 "hi CTagsMember -- no settings --
-hi NonText guifg=#3a3a3a guibg=NONE guisp=NONE gui=bold ctermfg=237 ctermbg=NONE cterm=bold
+hi NonText guifg=#3a3a3a guibg=#121212 guisp=#121212 gui=bold ctermfg=237 ctermbg=233 cterm=bold
 "hi CTagsGlobalConstant -- no settings --
 hi DiffText guifg=#e4e4e4 guibg=#ff6060 guisp=#ff6060 gui=NONE ctermfg=254 ctermbg=9 cterm=NONE
 hi ErrorMsg guifg=#ffffff guibg=#df0000 guisp=#df0000 gui=bold ctermfg=15 ctermbg=160 cterm=bold
